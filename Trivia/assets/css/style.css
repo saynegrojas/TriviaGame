@@ -1,0 +1,44 @@
+.jumbotron {
+  color: white;
+  background-color: black;
+  text-align: center;
+  opacity: .5;
+  max-height: 100px;
+  text-shadow: .1rem .1rem .2rem black;
+}
+body {
+  background-size: cover;
+  background-image: url(C:/Users/xX_GREG0R-E_Xx/Desktop/homeWork/Trivia/assets/images/one.png);
+  background-position: center center;
+ 
+}
+h1 {
+  background-color: rgb(143, 21, 21);
+  outline:3px solid yellow ;
+  padding: 20px;
+  font-weight: 900;
+  font-size: 2rem;
+  letter-spacing: .3rem;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btn {
+  color: white;
+  background-color: red;
+  opacity: .9;
+  margin: 30px;
+  font-size: 2rem;
+  font-weight: 400;
+  letter-spacing: .3rem;
+  text-shadow: .1rem .1rem .2rem black; /*change radius sicne smaller font size*/
+  padding-bottom: 1.4rem;
+}
+.btn-warning {
+  color: white;
+  background-color:rgb(143, 21, 21);
+}
+.btn-warning:hover {
+  color: white;
+}
+.timeRemaining {
+  color:yellow;
+}
